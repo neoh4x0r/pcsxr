@@ -1,4 +1,4 @@
-install(FILES pcsxr.1 DESTINATION ${CMAKE_INSTALL_PREFIX}/share/man/man1)
+install(FILES pcsxr.1 DESTINATION ${CMAKE_INSTALL_MANDIR}/man1)
 install(FILES keys.txt DESTINATION ${CMAKE_INSTALL_PREFIX}/share/doc/pcsxr)
 install(FILES tweaks.txt DESTINATION ${CMAKE_INSTALL_PREFIX}/share/doc/pcsxr)
 
